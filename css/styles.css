@@ -87,6 +87,9 @@ header.masthead .site-heading {
 }
 
 @media (max-width:576px){
+  .image-2,.image-1{
+    padding:0%
+  }
   p,li{
         font-size:20px;
         }
